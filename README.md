@@ -1,6 +1,3 @@
-# jockenpo
-Jogo de pedra, papel e tesoura
-
 <h1 align="center">
     PEDRA PAPEL E TESOURA
 </h1>
