@@ -3,3 +3,6 @@
 </h1>
 <p align="center"> joguinho desenvolvido na linguagem C </p>
 <p align="center"> :v: :raised_hand: :fist_raised: </p>
+<h4 align="center"> 
+	  🚀 Jogo finalizado 🚀
+</h4>
